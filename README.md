@@ -1,16 +1,15 @@
-## Hi there 👋
+# LukaStuber / spitedev
 
-<!--
-**LukaStuber/LukaStuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 💻
+Currently I am studying **Programming** in **Vienna, Austria**.
+\
+I have experience with **C#** and **Python**, and very light knowledge of other languages like C/C++, Java, JavaScript.\
+\
+I speak **German** and **English**.
+\
+I go by **he/him**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My future 💫
+Language-wise I hope to soon learn **C** and eventually **C++**. I would also like to learn **Java/TypeScript** and **HTML** to finally make [my own website.](https://spitedev.com)\
+\
+Job-wise I plan on working as a **Software Engineer** or as a **Backend Developer**.
